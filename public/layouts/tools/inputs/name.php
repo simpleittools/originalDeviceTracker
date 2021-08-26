@@ -1,0 +1,2 @@
+	<label for=<?php $labelInputName;?>><?php echo $displayName;?></label>
+	<input type="text" class='form-control' name='<?php $labelInputName;?>' onkeypress="return tabE(this,event)"placeholder="<?php echo $displayName?>" required>

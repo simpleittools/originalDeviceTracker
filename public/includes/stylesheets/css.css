@@ -1,0 +1,156 @@
+body{
+	background:#EDEFF0;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+
+.done{
+	text-decoration: line-through;
+}
+
+.deny{
+	color:red;
+}
+
+.hr-changelog{
+	height: 1px;
+	color: gray;
+	background-color: gray;
+	border: none;
+}
+
+#logout{
+	position:relative;
+	text-align: right;
+
+}
+
+.btn {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.no-bullet {
+	list-style-type: none;
+}
+.counter {
+
+  border-style: outset;
+  border-color: #007deb;
+  border-width: 4px;
+  border-radius: 12px;
+
+}
+
+
+.hidden {
+	display: none;
+}
+
+#side-menu {
+	font-size: 30px;
+	transition-duration: .25s;
+	transition-property: transform;
+	color: black;
+}
+
+.main-form{
+	
+	padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    
+    box-shadow:  0 0 10px #000000;
+}
+
+.hr-changelog{
+	height: 1px;
+	color: gray;
+	background-color: gray;
+	border: none;
+}
+
+.table-header{
+	text-align: center;
+}
+
+/* .sticky {
+	position: sticky;
+	top: 0
+} */
+
+.roadmap {
+	font-weight: bold;
+	color: red;
+}
+
+
+.form-control, select, textarea, .btn{
+  box-shadow: 0 0 10px #000000;
+}
+
+.form-control:hover, select:hover, textarea:hover, .btn:hover{
+  box-shadow: 0 0 20px #000000;
+}
+
+.input-form{
+	height:1px;
+	visibility: hidden;
+}
+
+.note {
+    font-size: .8em;
+}
+
+
+#change-log-legend{
+	margin-left: -40px;
+	margin-right: -20px;
+	padding-left: 30px;
+}
+
+.header-footer-border{
+	height: 10px;
+	background: #28cbe0;
+}
+
+#footer {
+	margin-left: 0;
+	margin-right:0;
+
+}
+
+.noLocation {
+	color: #8a4556;
+	
+}
+
+.report-border {
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 25px;
+	margin: 2px;
+}
+
+.report-box {
+	min-height: 90px;
+	width: 32%;
+}
+
+.report-listing {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.message {
+	text-align: left;
+	padding: 5px;
+	color: #8a4556;
+	font-size: 1.2em;
+}
+
+.confirmButton {
+	background-color: #28cbe0;
+	color: #fff;
+}

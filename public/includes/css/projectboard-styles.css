@@ -1,0 +1,77 @@
+/***************
+	Elements 
+***************/
+
+textarea {
+	min-height: 32px;
+	max-height: 50vh;
+	width: 100%;
+	border-radius: 5px;
+
+}
+
+select {
+	border-radius: 5px;
+
+}
+
+input {
+	border-radius: 5px;
+}
+
+nav {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1 {
+	text-align: center;
+	color: gray;
+}
+
+body {
+	background: black;
+}
+
+/**********
+	IDs 
+**********/
+
+#save {
+	margin-left: 10px;
+	
+}
+
+/**************
+	Classes
+**************/
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #a3a3a3;
+}
+
+.psbContainer {
+	margin-left: 10px;
+	margin-top: 58px;
+	margin-right: 10px;
+}
+
+.del{
+	background: #c91414;
+	color: white;
+	visibility: hidden;
+	
+}
+
+.moveRight {
+	float: right;
+}
+
+.head {
+	width: 100%;
+}
+
+.rowDel {
+	min-width: 58px;
+}
+

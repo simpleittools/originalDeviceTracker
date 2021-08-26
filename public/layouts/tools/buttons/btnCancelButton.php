@@ -1,0 +1,2 @@
+<!-- <a class="btn btn-danger" href=<?php echo $cancelLocationValue; ?>>Cancel</a> -->
+<input class="btn btn-danger" action="action" onclick="window.history.go(-1); return false;" type="button" value="cancel">

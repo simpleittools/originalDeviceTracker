@@ -1,0 +1,1 @@
+<input class="btn btn-warning" type=button name="FrozenOut" onclick="location.href='layouts/tools/frozenOut.php?id=<?php echo $id;?>';" value="Frozen-Out">

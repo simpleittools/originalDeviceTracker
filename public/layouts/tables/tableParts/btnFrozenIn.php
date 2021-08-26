@@ -1,0 +1,1 @@
+<input class="btn btn-danger" type=button name="FrozenIn" onclick="location.href='layouts/tools/frozenIn.php?id=<?php echo $id;?>';" value="Frozen-In">

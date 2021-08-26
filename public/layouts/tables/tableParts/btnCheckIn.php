@@ -1,0 +1,1 @@
+<input class="btn btn-success" type=button name="CheckIn" onclick="location.href='layouts/tools/checkIn.php?id=<?php echo $id;?>';" value="Check In">

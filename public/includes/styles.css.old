@@ -1,0 +1,23 @@
+
+
+.done{
+	text-decoration: line-through;
+}
+
+.codiad{
+	color:#f57f00;
+}
+
+.main{
+	margin-top:20px;
+}
+#logout{
+	position:relative;
+	text-align: right;
+
+}
+
+.edge{
+	border: 5px solid black;
+}
+

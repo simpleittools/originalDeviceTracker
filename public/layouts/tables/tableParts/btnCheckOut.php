@@ -1,0 +1,1 @@
+<input class="btn btn-primary" type=button name="CheckOut" onclick="location.href='layouts/tools/checkOut.php?id=<?php echo $id;?>';" value="Check Out">
